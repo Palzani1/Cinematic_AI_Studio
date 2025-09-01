@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Studio AI",
+  "description": "An application that uses Gemini to create cinematic storylines and Imagen to generate cinematic images.",
+  "requestFramePermissions": []
+}
